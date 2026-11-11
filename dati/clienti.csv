@@ -1,0 +1,121 @@
+id_cliente,ragione_sociale,provincia,coltura_principale,ettari
+C001,Az. Agricola 001,SS ,pomodoro,148
+C002,Az. Agricola 002,sassari,pomodoro,39
+C003,Az. Agricola 003,Sud Sardegna,vite,137
+C004,Az. Agricola 004,SU,ortive,156
+C005,Az. Agricola 005,NU,mais,112
+C006,Az. Agricola 006,sassari,ortive,37
+C007,Az. Agricola 007,CA,grano duro,116
+C008,Az. Agricola 008,Cagliari,ortive,138
+C009,Az. Agricola 009,SU,carciofo,79
+C010,Az. Agricola 010,Oristano,ortive,90
+C011,Az. Agricola 011,oristano,carciofo,149
+C012,Az. Agricola 012,Sud Sardegna,ortive,34
+C013,Az. Agricola 013,oristano,carciofo,6
+C014,Az. Agricola 014,SU,carciofo,109
+C015,Az. Agricola 015,SS ,grano duro,21
+C016,Az. Agricola 016,SU,ortive,56
+C017,Az. Agricola 017,SS,carciofo,112
+C018,Az. Agricola 018,Oristano,pomodoro,226
+C019,Az. Agricola 019,Cagliari,pomodoro,223
+C020,Az. Agricola 020,SS,vite,249
+C021,Az. Agricola 021,oristano,grano duro,214
+C022,Az. Agricola 022,SS,carciofo,211
+C023,Az. Agricola 023,OR,carciofo,233
+C024,Az. Agricola 024,Sassari,grano duro,45
+C025,Az. Agricola 025,SS,ortive,4
+C026,Az. Agricola 026,Sassari,mais,185
+C027,Az. Agricola 027,SS ,vite,37
+C028,Az. Agricola 028,Sud Sardegna,grano duro,9
+C029,Az. Agricola 029,Cagliari,carciofo,171
+C030,Az. Agricola 030,SS,pomodoro,75
+C031,Az. Agricola 031,Cagliari,pomodoro,73
+C032,Az. Agricola 032,SS ,carciofo,80
+C033,Az. Agricola 033,Sassari,ortive,93
+C034,Az. Agricola 034,Nuoro,ortive,110
+C035,Az. Agricola 035,Nuoro,grano duro,219
+C036,Az. Agricola 036,SS,mais,102
+C037,Az. Agricola 037,SS,ortive,77
+C038,Az. Agricola 038,oristano,vite,166
+C039,Az. Agricola 039,Cagliari,grano duro,143
+C040,Az. Agricola 040,SS ,mais,157
+C041,Az. Agricola 041,sassari,pomodoro,121
+C042,Az. Agricola 042,Sud Sardegna,carciofo,190
+C043,Az. Agricola 043,SS,pomodoro,161
+C044,Az. Agricola 044,SU,vite,38
+C045,Az. Agricola 045,SS ,pomodoro,189
+C046,Az. Agricola 046,SU,pomodoro,160
+C047,Az. Agricola 047,SS,pomodoro,131
+C048,Az. Agricola 048,OR,pomodoro,60
+C049,Az. Agricola 049,sassari,vite,211
+C050,Az. Agricola 050,Oristano,vite,83
+C051,Az. Agricola 051,OR,pomodoro,25
+C052,Az. Agricola 052,NU,ortive,100
+C053,Az. Agricola 053,Sud Sardegna,vite,23
+C054,Az. Agricola 054,OR,grano duro,240
+C055,Az. Agricola 055,SU,grano duro,207
+C056,Az. Agricola 056,CA,ortive,171
+C057,Az. Agricola 057,SS ,pomodoro,202
+C058,Az. Agricola 058,CA,mais,180
+C059,Az. Agricola 059,Cagliari,grano duro,166
+C060,Az. Agricola 060,CA,pomodoro,64
+C061,Az. Agricola 061,SS,pomodoro,76
+C062,Az. Agricola 062,Sassari,mais,152
+C063,Az. Agricola 063,OR,carciofo,199
+C064,Az. Agricola 064,Nuoro,ortive,184
+C065,Az. Agricola 065,SS,grano duro,158
+C066,Az. Agricola 066,Oristano,mais,169
+C067,Az. Agricola 067,Oristano,carciofo,77
+C068,Az. Agricola 068,SS ,mais,83
+C069,Az. Agricola 069,oristano,vite,123
+C070,Az. Agricola 070,CA,grano duro,196
+C071,Az. Agricola 071,Oristano,ortive,174
+C072,Az. Agricola 072,SS ,pomodoro,162
+C073,Az. Agricola 073,NU,grano duro,50
+C074,Az. Agricola 074,Sassari,grano duro,219
+C075,Az. Agricola 075,Cagliari,grano duro,176
+C076,Az. Agricola 076,Cagliari,carciofo,113
+C077,Az. Agricola 077,OR,vite,66
+C078,Az. Agricola 078,Cagliari,carciofo,177
+C079,Az. Agricola 079,CA,pomodoro,106
+C080,Az. Agricola 080,SS ,mais,219
+C081,Az. Agricola 081,Nuoro,vite,187
+C082,Az. Agricola 082,Oristano,pomodoro,108
+C083,Az. Agricola 083,Sud Sardegna,vite,191
+C084,Az. Agricola 084,Nuoro,carciofo,133
+C085,Az. Agricola 085,OR,vite,213
+C086,Az. Agricola 086,Sud Sardegna,pomodoro,45
+C087,Az. Agricola 087,SS ,vite,202
+C088,Az. Agricola 088,SU,pomodoro,13
+C089,Az. Agricola 089,SU,mais,232
+C090,Az. Agricola 090,NU,vite,54
+C091,Az. Agricola 091,Cagliari,mais,35
+C092,Az. Agricola 092,Sassari,vite,217
+C093,Az. Agricola 093,Cagliari,pomodoro,157
+C094,Az. Agricola 094,CA,pomodoro,242
+C095,Az. Agricola 095,SS ,vite,54
+C096,Az. Agricola 096,Oristano,grano duro,20
+C097,Az. Agricola 097,SS,carciofo,209
+C098,Az. Agricola 098,CA,grano duro,153
+C099,Az. Agricola 099,sassari,vite,157
+C100,Az. Agricola 100,SU,vite,229
+C101,Az. Agricola 101,Nuoro,ortive,88
+C102,Az. Agricola 102,Nuoro,ortive,187
+C103,Az. Agricola 103,NU,vite,80
+C104,Az. Agricola 104,sassari,vite,166
+C105,Az. Agricola 105,Cagliari,ortive,114
+C106,Az. Agricola 106,Sassari,carciofo,225
+C107,Az. Agricola 107,Sud Sardegna,ortive,69
+C108,Az. Agricola 108,Cagliari,vite,95
+C109,Az. Agricola 109,sassari,carciofo,24
+C110,Az. Agricola 110,Nuoro,carciofo,173
+C111,Az. Agricola 111,OR,pomodoro,177
+C112,Az. Agricola 112,SS ,carciofo,123
+C113,Az. Agricola 113,SS,ortive,177
+C114,Az. Agricola 114,NU,mais,44
+C115,Az. Agricola 115,Oristano,pomodoro,116
+C116,Az. Agricola 116,SS,pomodoro,99
+C117,Az. Agricola 117,OR,mais,151
+C118,Az. Agricola 118,Sud Sardegna,pomodoro,234
+C119,Az. Agricola 119,Cagliari,pomodoro,234
+C120,Az. Agricola 120,Nuoro,mais,101
